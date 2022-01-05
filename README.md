@@ -1,6 +1,6 @@
-Note: _This was my second 42 project. This code is from November 2020. This README was written by the amazing [Qing Li](https://github.com/qingqingqingli), it was copied with her permission; it perfectly describes the project._
+Note: _This was my second 42 project. This code is from November 2020. This README was written by the amazing [Qing Li](https://github.com/qingqingqingli), it was copied and modified with her permission; it perfectly describes the project._
 
-[![Logo](https://github.com/qingqingqingli/readme_images/blob/master/codam_logo_1.png)](https://github.com/qingqingqingli/get_next_line)
+[![Logo](https://github.com/qingqingqingli/readme_images/blob/master/codam_logo_1.png)](https://github.com/elbaradi/ft_get_next_line)
 
 ## get_next_line
 ***The aim of this project is to code a function that returns a line ending with a newline, read from a file descriptor.***
